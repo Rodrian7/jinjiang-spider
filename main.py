@@ -6,7 +6,7 @@ import time
 from bs4 import BeautifulSoup
 
 
-from test import *
+from Ui_MainWindow import *
 
 # 1. 创建信号 Message = QtCore.pyqtSignal(str)
 # 2. 主线程连接对应函数
